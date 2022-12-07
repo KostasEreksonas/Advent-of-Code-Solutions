@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
 
-#A,Y - Rock; B,X - Paper; C,Z - Scissors
-# A beats Z
-# B beats Y
-# C beats X
-# Y beats C
-# X beats A
-# Z beats B
-
-count = 0
 total = 0
 opponent = {
     "A": "Rock",
