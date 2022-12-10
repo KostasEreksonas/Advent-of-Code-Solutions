@@ -3,6 +3,7 @@
 first = 0
 second = 0
 third = 0
+
 with open("input.txt", "r") as file:
     count = 0
     for line in file:
