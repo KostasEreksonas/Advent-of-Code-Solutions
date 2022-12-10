@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 total = 0
+
 opponent = {
     "A": "Rock",
     "B": "Paper",
