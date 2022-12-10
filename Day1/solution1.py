@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 highest = 0
+
 with open("input.txt", "r") as file:
     count = 0
     for line in file:
