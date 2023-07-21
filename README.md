@@ -1,2 +1,2 @@
-# Advent-of-Code-2022-Solutions
-Solutions for Advent of Code 2022 challenges
+# Advent of Code Solutions
+Solutions for every year's Advent of Code challenges
